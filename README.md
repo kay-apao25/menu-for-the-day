@@ -10,6 +10,7 @@ Please showcase your use of semantic HTML and modern CSS.
 
 The radio-button groups should be dynamically rendered based on the following data, which you can imagine has come back from an API response:
 
+```
 {
   menus: [
     // first group of radio-buttons
@@ -48,6 +49,7 @@ The radio-button groups should be dynamically rendered based on the following da
     205: [304],
   }
 }
+```
 Initially, only items from the first group are able to be selected. Inputs in subsequent groups are to be initially disabled.
 
 When an item from the first group is selected, valid items from the next group are enabled.
