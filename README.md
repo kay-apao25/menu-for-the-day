@@ -2,6 +2,8 @@
 
 Create an interactive and dynamic HTML form in JavaScript***. The form should render multiple groups of radio buttons.
 
+***Implemented in React JS***
+
 Add a submit button at the bottom that is only enabled when a valid option from all groups has been selected.
 
 The radio-button groups should be dynamically rendered based on the following data, which you can imagine has come back from an API response:
